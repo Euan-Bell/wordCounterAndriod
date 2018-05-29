@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WordCounterHomework</string>
+    <string name="enter">Please enter text</string>
+    <string name="count_words">Count each word</string>
+    <string name="answer_text"></string>
+</resources>
